@@ -1,6 +1,6 @@
 <div align="center">
 
-# ichoare 
+# issam chouaref
 ### Full-Stack JavaScript Developer | devops Practitioner
 
 *Designing systems. Shipping features. Solving problems.*
