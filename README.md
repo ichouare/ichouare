@@ -5,7 +5,7 @@
 
 *Designing systems. Shipping features. Solving problems.*
 
-[![Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/sylvaincodes)
+<!-- [![Patreon](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/sylvaincodes) -->
 </div>
 
 ---
